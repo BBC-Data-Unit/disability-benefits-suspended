@@ -44,6 +44,7 @@ The Shared Data Unit makes data journalism available to the wider news industry 
 
 - Bury Times: [Hundreds of people in Bury lost access to PIP in hospital](https://www.burytimes.co.uk/news/23093570.hundreds-people-bury-lost-access-pip-hospital/) *2 November 2022*
 - Daily Record (Scotland): [Thousands of disabled Scots lose benefits while requiring prolonged hospital treatment](https://www.dailyrecord.co.uk/news/politics/disabled-scots-benefits-hospital-treatment-28382658) *2 November 2022*
+- Grimsby Live: [Charity slams benefits rule as around 90 northern Lincs hospital patients a month have payments stopped](https://www.grimsbytelegraph.co.uk/news/local-news/charity-slams-benefits-rule-around-7776374) *2 November 2022*
 - Kenilworth Nub News: [Hundreds of disabled people in Warwickshire had their benefits stops while in hospital](https://kenilworth.nub.news/news/local-news/hundreds-of-disabled-people-in-warwickshire-had-their-benefits-stops-while-in-hospital-157131) *2 November 2022*
 - Lichfield Live: [Data reveals increase in number of people in Lichfield seeing disability benefits payments stopped due to hospitalisation](https://lichfieldlive.co.uk/2022/11/02/data-reveals-increase-in-number-of-people-in-lichfield-seeing-disability-benefits-payment-stopped-due-to-hospitalisation/) *2 November 2022*
 - The Lincolnite: [Lincolnshire’s disabled suffer benefits cuts after long hospital stays](https://thelincolnite.co.uk/2022/11/lincolnshires-disabled-suffer-benefits-cuts-after-long-hospital-stays/) *2 November 2022*
