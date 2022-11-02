@@ -18,7 +18,7 @@ We provided figures for the total number of people whose PIP payments were suspe
 
 As the Secretary of State for Work and Pensions was originally named as the defendant in the application for Judicial Review, we sourced figures from The Department for Work and Pensions (DWP) only and they covered Great Britain.
 
-The suspensions data were obtained through a request to the DWP under the Freedom of Information Act (FOI).  The total claims data were the DWP’s figures too and they were obtained from the DWP’s online Stat-Xplore tool.
+The [suspensions data were obtained](https://github.com/BBC-Data-Unit/disability-benefits-suspended/blob/main/FOI%20data%20FOI2022-33564%20-%20Tables.xlsx) through [a request to the DWP under the Freedom of Information Act (FOI)](https://github.com/BBC-Data-Unit/disability-benefits-suspended/blob/main/FOI%20Response_FOI2022_33564.pdf).  The total claims data were the DWP’s figures too and they were obtained from the DWP’s online Stat-Xplore tool.
 
 For each year and local authority, we provided the ratio of total suspensions due to hospitalisation, to total PIP claims to give a sense of proportion. 
 
