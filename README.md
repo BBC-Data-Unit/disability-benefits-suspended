@@ -42,7 +42,9 @@ We also produced [this website](https://benefits-suspended.github.io/getthedata/
 
 The Shared Data Unit makes data journalism available to the wider news industry as part of the BBC Local News Partnership. Stories written by partners based on this research included:
 
+- Daily Record (Scotland): [Thousands of disabled Scots lose benefits while requiring prolonged hospital treatment](https://www.dailyrecord.co.uk/news/politics/disabled-scots-benefits-hospital-treatment-28382658) *2 November 2022*
 - Manchester Evening News: [Thousands of disabled people in Greater Manchester had their benefits stopped while in hospital](https://www.manchestereveningnews.co.uk/news/greater-manchester-news/thousands-disabled-people-greater-manchester-25397699) *2 November 2022*
+- Stamford Mercury: [Disability benefit suspensions during extended hospital stays penalise the most vulnerable, say critics](https://www.stamfordmercury.co.uk/news/disability-benefit-suspensions-penalise-the-most-vulnerable-9282029/) *2 November 2022*
 
 
 The story featured online and as a bulletin piece across BBC local radio through 2 November 2022.
