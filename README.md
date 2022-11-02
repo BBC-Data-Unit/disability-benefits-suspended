@@ -60,7 +60,8 @@ The story featured online and as a bulletin piece across BBC local radio through
 
 BBC Shared Data Unit senior journalist Alex Homer carried out two-way interviews to discuss the story on BBC Radio Wales, BBC Radio Somerset, BBC Radio Devon, BBC Radio Surrey and BBC Radio Cambridgeshire.
 
-The report made headlines for...
+The report made bulletins for BBC Radio Bristol, BBC Sussex, BBC Radio Derby, BBC Radio Gloucestershire, BBC Radio Shropshire, BBC Radio Oxford, BBC Radio Solent, BBC Radio Merseyside, BBC Radio Leicester, BBC Radio Jersey, BBC Radio York and BBC Radio Cumbria.
+
 
 ## Other usage
 
