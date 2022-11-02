@@ -44,7 +44,11 @@ The Shared Data Unit makes data journalism available to the wider news industry 
 
 - Bury Times: [Hundreds of people in Bury lost access to PIP in hospital](https://www.burytimes.co.uk/news/23093570.hundreds-people-bury-lost-access-pip-hospital/) *2 November 2022*
 - Daily Record (Scotland): [Thousands of disabled Scots lose benefits while requiring prolonged hospital treatment](https://www.dailyrecord.co.uk/news/politics/disabled-scots-benefits-hospital-treatment-28382658) *2 November 2022*
+- Lichfield Live: [Data reveals increase in number of people in Lichfield seeing disability benefits payments stopped due to hospitalisation](https://lichfieldlive.co.uk/2022/11/02/data-reveals-increase-in-number-of-people-in-lichfield-seeing-disability-benefits-payment-stopped-due-to-hospitalisation/) *2 November 2022*
 - Manchester Evening News: [Thousands of disabled people in Greater Manchester had their benefits stopped while in hospital](https://www.manchestereveningnews.co.uk/news/greater-manchester-news/thousands-disabled-people-greater-manchester-25397699) *2 November 2022*
+- Manchester World: [Disabled people in Greater Manchester have benefits stopped while in hospital due to controversial rule](https://www.manchesterworld.uk/news/disabled-people-in-greater-manchester-have-benefits-stopped-while-in-hospital-due-to-controversial-rule-3902648) *2 November 2022*
+- Newark Advertiser: [Disability benefit suspensions during extended hospital stays penalise the most vulnerable, say critics](https://www.newarkadvertiser.co.uk/news/disability-benefit-suspensions-penalise-the-most-vulnerable-9282042/) *2 November 2022*
+- Spalding Today: [Disability benefit suspensions during extended hospital stays penalise the most vulnerable, say critics](https://www.spaldingtoday.co.uk/news/disability-benefit-suspensions-penalise-the-most-vulnerable-9282013/) *2 November 2022*
 - Stamford Mercury: [Disability benefit suspensions during extended hospital stays penalise the most vulnerable, say critics](https://www.stamfordmercury.co.uk/news/disability-benefit-suspensions-penalise-the-most-vulnerable-9282029/) *2 November 2022*
 
 
