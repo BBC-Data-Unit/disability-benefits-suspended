@@ -34,7 +34,7 @@ In some cases, several groups had the same number (because the DWP rounded its f
 
 # Get the data
 
-We produced [this story pack](https://docs.google.com/document/d/10mNd5JgC4cVfjidPKz3V_UuBtTcTE5-cWI9E89roEQk/edit?usp=sharing) and [this dataset](https://docs.google.com/document/d/10mNd5JgC4cVfjidPKz3V_UuBtTcTE5-cWI9E89roEQk/edit?usp=sharing).
+We produced [this story pack](https://docs.google.com/document/d/10mNd5JgC4cVfjidPKz3V_UuBtTcTE5-cWI9E89roEQk/edit?usp=sharing) and [this dataset](https://docs.google.com/spreadsheets/d/1zR4GxlqNb7pHvqF6OAMWbBp5zSJ7_fP8Rk0UPtL6DI0/edit#gid=1976664966).
 
 We also produced [this website](https://benefits-suspended.github.io/getthedata/) allowing our regional news partners to easily access information for the local authorities' areas they covered.
 
