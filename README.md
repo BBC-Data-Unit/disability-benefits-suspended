@@ -44,6 +44,7 @@ The Shared Data Unit makes data journalism available to the wider news industry 
 
 - Bury Times: [Hundreds of people in Bury lost access to PIP in hospital](https://www.burytimes.co.uk/news/23093570.hundreds-people-bury-lost-access-pip-hospital/) *2 November 2022*
 - Daily Record (Scotland): [Thousands of disabled Scots lose benefits while requiring prolonged hospital treatment](https://www.dailyrecord.co.uk/news/politics/disabled-scots-benefits-hospital-treatment-28382658) *2 November 2022*
+- Denbighshire Free Press: [Long term hospital patients in Wrexham and Flintshire have benefits suspended](https://www.denbighshirefreepress.co.uk/news/23095994.long-term-hospital-patients-wrexham-flintshire-benefits-suspended/) *2 November 2022*
 - Greatest Hits Radio/GI Media (East Yorkshire and Northern Lincolnshire): [Locals see benefits cut due to hospital stays](https://www.gi-media.co.uk/2022/11/02/locals-see-benefits-cut-due-to-hospital-stays/) *2 November 2022*
 - Grimsby Live: [Charity slams benefits rule as around 90 northern Lincs hospital patients a month have payments stopped](https://www.grimsbytelegraph.co.uk/news/local-news/charity-slams-benefits-rule-around-7776374) *2 November 2022*
 - Kenilworth Nub News: [Hundreds of disabled people in Warwickshire had their benefits stops while in hospital](https://kenilworth.nub.news/news/local-news/hundreds-of-disabled-people-in-warwickshire-had-their-benefits-stops-while-in-hospital-157131) *2 November 2022*
@@ -54,9 +55,12 @@ The Shared Data Unit makes data journalism available to the wider news industry 
 - Manchester Evening News: [Thousands of disabled people in Greater Manchester had their benefits stopped while in hospital](https://www.manchestereveningnews.co.uk/news/greater-manchester-news/thousands-disabled-people-greater-manchester-25397699) *2 November 2022*
 - Manchester World: [Disabled people in Greater Manchester have benefits stopped while in hospital due to controversial rule](https://www.manchesterworld.uk/news/disabled-people-in-greater-manchester-have-benefits-stopped-while-in-hospital-due-to-controversial-rule-3902648) *2 November 2022*
 - Newark Advertiser: [Disability benefit suspensions during extended hospital stays penalise the most vulnerable, say critics](https://www.newarkadvertiser.co.uk/news/disability-benefit-suspensions-penalise-the-most-vulnerable-9282042/) *2 November 2022*
+- Oldham Times: [Disability PIP benefits paused for hundreds in Oldham](https://www.theoldhamtimes.co.uk/news/23096442.disability-pip-benefits-paused-hundreds-oldham/) *3 November 2022* 
 - Spalding Today: [Disability benefit suspensions during extended hospital stays penalise the most vulnerable, say critics](https://www.spaldingtoday.co.uk/news/disability-benefit-suspensions-penalise-the-most-vulnerable-9282013/) *2 November 2022*
 - Stamford Mercury: [Disability benefit suspensions during extended hospital stays penalise the most vulnerable, say critics](https://www.stamfordmercury.co.uk/news/disability-benefit-suspensions-penalise-the-most-vulnerable-9282029/) *2 November 2022*
 - Teesside Live: [Huge rise in disabled people having benefits stopped during hospital stays](https://www.gazettelive.co.uk/news/teesside-news/huge-rise-disabled-people-having-25415535) *2 November 2022*
+- Telegraph & Argus (Bradford): [Disabled people are hit by benefits 'hospital stay rule'](https://www.thetelegraphandargus.co.uk/news/23096029.disabled-people-hit-benefits-hospital-stay-rule/) *3 November 2022*
+- Wigan Today: [Hundreds of Wigan people have benefits stopped while in hospital due to controversial rule](https://www.wigantoday.net/news/politics/hundreds-of-wigan-people-have-benefits-stopped-while-in-hospital-due-to-controversial-rule-3903419) *3 November 2022*
 
 
 The story featured online and as a bulletin piece across BBC local radio through 2 November 2022.
