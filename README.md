@@ -76,4 +76,4 @@ The report made bulletins for BBC Radio Bristol, BBC Sussex, BBC Radio Derby, BB
 
 ## Other usage
 
-
+- The Mirror (Opinion): ['Disabled people having their benefits cut while in hospital shows Tory cruelty'](https://www.mirror.co.uk/news/uk-news/disabled-people-having-benefits-cut-28403861) *4 November 2022*
