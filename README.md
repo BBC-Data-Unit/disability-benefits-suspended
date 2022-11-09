@@ -44,6 +44,7 @@ The Shared Data Unit makes data journalism available to the wider news industry 
 
 - Bolton News: [Bolton: 100s miss out on PIP benefits due to 'hospital rule'](https://www.theboltonnews.co.uk/news/23097387.bolton-100s-miss-pip-benefits-due-hospital-rule/) *4 November 2022*
 - Bury Times: [Hundreds of people in Bury lost access to PIP in hospital](https://www.burytimes.co.uk/news/23093570.hundreds-people-bury-lost-access-pip-hospital/) *2 November 2022*
+- Cwmbran Life: [Ninety disabled people in Torfaen had benefits stopped when in hospital](https://www.cwmbranlife.co.uk/ninety-disabled-people-in-torfaen-had-benefits-stopped-when-in-hospital/) *8 November 2022*
 - Daily Record (Scotland): [Thousands of disabled Scots lose benefits while requiring prolonged hospital treatment](https://www.dailyrecord.co.uk/news/politics/disabled-scots-benefits-hospital-treatment-28382658) *2 November 2022*
 - Denbighshire Free Press: [Long term hospital patients in Wrexham and Flintshire have benefits suspended](https://www.denbighshirefreepress.co.uk/news/23095994.long-term-hospital-patients-wrexham-flintshire-benefits-suspended/) *2 November 2022*
 - Grantham Journal: [Disability benefit suspensions during extended hospital stays penalise the most vulnerable, say critics](https://www.granthamjournal.co.uk/news/disability-benefit-suspensions-penalise-the-most-vulnerable-9281970/) *2 November 2022*
