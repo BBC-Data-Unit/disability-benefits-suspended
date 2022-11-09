@@ -16,7 +16,7 @@ The government said when somebody was in receipt of long-term NHS in-patient car
 
 We provided figures for the total number of people whose PIP payments were suspended due to spending 28 days or more in a hospital or similar institution for each local authority for the quarter from 1 February to 30 April for the years 2020, 2021 and 2022, so we were comparing the same point in time. For a sense of proportion we also provided the total PIP claims for each local authority for each of those financial years.
 
-As the Secretary of State for Work and Pensions was originally named as the defendant in the application for Judicial Review, we sourced figures from The Department for Work and Pensions (DWP) only and they covered Great Britain.
+As the Secretary of State for Work and Pensions was originally named as the defendant in the application for judicial review, we sourced figures from The Department for Work and Pensions (DWP) only and they covered Great Britain.
 
 The [suspensions data were obtained](https://github.com/BBC-Data-Unit/disability-benefits-suspended/blob/main/FOI%20data%20FOI2022-33564%20-%20Tables.xlsx) through [a request to the DWP under the Freedom of Information Act (FOI)](https://github.com/BBC-Data-Unit/disability-benefits-suspended/blob/main/FOI%20Response_FOI2022_33564.pdf).  The total claims data were the DWP’s figures too and they were obtained from the DWP’s online Stat-Xplore tool.
 
@@ -37,6 +37,18 @@ In some cases, several groups had the same number (because the DWP rounded its f
 We produced [this story pack](https://docs.google.com/document/d/10mNd5JgC4cVfjidPKz3V_UuBtTcTE5-cWI9E89roEQk/edit?usp=sharing) and [this dataset](https://docs.google.com/spreadsheets/d/1zR4GxlqNb7pHvqF6OAMWbBp5zSJ7_fP8Rk0UPtL6DI0/edit#gid=1976664966).
 
 We also produced [this website](https://benefits-suspended.github.io/getthedata/) allowing our regional news partners to easily access information for the local authorities' areas they covered.
+
+# Interviews and quotes
+
+- Nicola Clulow (she/her), mother and known carer for Cameron Mitchell (he/him), who had sought a judicial review of the so-called "hospitalisation rule" before the case was withdrawn
+- Dan Scorer (he/him), head of policy at Mencap, the learning disability charity
+- Jonathan Beebee (he/him), Royal College of Nursing professional lead for learning disability nursing
+- Carolin Ott (she/her), the solicitor at law firm Leigh Day which represented Cameron Mitchell in the [now-withdrawn] application for judicial review
+- Craig Mathieson (he/him), whose family won a legal battle over Disability Living Allowance in 2015 at the Supreme Court
+- Rheian Davies (she/her), head of the legal unit at the mental health charity Mind
+- The Department for Work and Pensions (DWP) 
+- Ken Butler (he/him), welfare rights and policy adviser for the charity Disability Rights UK
+- Alex Kennedy (he/him), head of campaigns from the charity Rethink Mental Illness
 
 # Partner usage
 
