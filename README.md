@@ -55,6 +55,7 @@ We also produced [this website](https://benefits-suspended.github.io/getthedata/
 The Shared Data Unit makes data journalism available to the wider news industry as part of the BBC Local News Partnership. Stories written by partners based on this research included:
 
 - Andover Advertiser: [Disabled Basingstoke and Test Valley residents miss out on benefits](https://www.andoveradvertiser.co.uk/news/23101421.disabled-basingstoke-test-valley-residents-miss-benefits/) *14 November 2022*
+- Barrhead News: [Disabled people missing out on cash through ‘hospitalisation rule’](https://www.barrheadnews.com/news/23167235.disabled-people-missing-cash-hospitalisation-rule/) *4 December 2022*
 - Basingstoke Gazette (in print): Hundreds of disabled residents miss out on benefits due to 'hospital rule' *14 November 2022*
 - Basingstoke Gazette: [Disabled Basingstoke and Test Valley residents miss out on benefits](https://www.basingstokegazette.co.uk/news/23101421.disabled-basingstoke-test-valley-residents-miss-benefits/) *14 November 2022*
 - Bolton News: [Bolton: 100s miss out on PIP benefits due to 'hospital rule'](https://www.theboltonnews.co.uk/news/23097387.bolton-100s-miss-pip-benefits-due-hospital-rule/) *4 November 2022*
